@@ -1,6 +1,4 @@
 [
-    {"name":"零食1","content":"地址1","image":"/static/images/10.png","remark":"介绍1"},
-    {"name":"零食2","content":"地址2","image":"/static/images/10.png","remark":"介绍2"},
-    {"name":"零食3","content":"地址3","image":"/static/images/10.png","remark":"介绍3"},
-    {"name":"零食4","content":"地址4","image":"/static/images/10.png","remark":"介绍4"}
+    {"name":"句子在复合句中充当一个主语","content":"引导主语从句连词有that,whether,who,what,whatever等","image":"/static/images/10.png","remark":"1.Who will be our monitor hasn't been decided yet.2.What caused the accident remains unknown."},
+    {"name":" It+形式主语谓语+从句","content":"把形式主语it放在句首位置，真正主语搁置于句末","image":"/static/images/10.png","remark":"It is certain that he will win the match."}
 ]

@@ -58,7 +58,7 @@ export default {
   data () {
     return {
       grids: [
-        {title:"定语",image:"/static/images/1.png"},
+        {title:"后置定语",image:"/static/images/1.png"},
         {title:"状语",image:"/static/images/2.png"},
         {title:"倒装句",image:"/static/images/3.png"},
         {title:"强调句",image:"/static/images/4.png"}
