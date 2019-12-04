@@ -1,0 +1,6 @@
+[
+    {"name":"关系代词who/whom/that","content":"whom/who/that指人，在从句中who作主语，whom作宾语","image":"/static/images/9.png","remark":"1.Is he the man who/that wants to see you?2.He is the man whom/ that I saw yesterday."},
+    {"name":"关系代词which/that","content":"which/that指物，在从句中作主语、宾语等","image":"/static/images/9.png","remark":"The package which / that you are carrying is about to come unwrapped."},
+    {"name":"关系代词whose","content":"whose指人或物，只用作定语","image":"/static/images/9.png","remark":"Please pass me the book whose cover is green."},
+    {"name":"关系副词when, where,why","content":"关系副词可代替的先行词是时间、地点或理由的名词，在从句中作状语。","image":"/static/images/9.png","remark":"1.There are occasions when one must yield. 2.Beijing is the place where I was born. 3.Is this the reason why he refused our offer?"}
+]

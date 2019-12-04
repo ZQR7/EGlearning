@@ -1,0 +1,6 @@
+[
+    {"name":"主食1","content":"地址1","image":"/static/images/4.png","remark":"介绍1"},
+    {"name":"主食2","content":"地址2","image":"/static/images/4.png","remark":"介绍2"},
+    {"name":"主食3","content":"地址3","image":"/static/images/4.png","remark":"介绍3"},
+    {"name":"主食4","content":"地址4","image":"/static/images/4.png","remark":"介绍4"}
+]
