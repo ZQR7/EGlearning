@@ -1,6 +1,5 @@
 [
-    {"name":"外卖1","content":"地址1","image":"/static/images/5.png","remark":"介绍1"},
-    {"name":"外卖2","content":"地址2","image":"/static/images/5.png","remark":"介绍2"},
-    {"name":"外卖3","content":"地址3","image":"/static/images/5.png","remark":"介绍3"},
-    {"name":"外卖4","content":"地址4","image":"/static/images/5.png","remark":"介绍4"}
+    {"name":"物质名词","content":"","image":"/static/images/5.png","remark":"air 空气 beer 啤酒 blood 血液 bread 面包 butter 黄油 cake 蛋糕 chalk 粉笔 cheese 奶酪 coal 煤 coffee 咖啡 electricity 电力 fog 雾 gold 黄金 grass 草 hair 头发 ice 冰 ink 油墨 lumber 木材 meat 肉 milk 牛奶 oil 油 oxygen 氧气 paper 纸 rain 雨 rice 水稻 smoke 烟雾 snow 雪 soap 肥皂 soup 汤 sugar 糖 tea 茶 water 水 wine 葡萄酒 wood 木 iron 铁 juice 果汁"},
+    {"name":"抽象名词","content":"","image":"/static/images/5.png","remark":"advice 建议 age 年龄 beauty 美丽 capitalism 资本主义 communism 共产主义 democracy 民主 energy 能源 fun 乐趣 happiness 幸福 help 帮助 honesty 诚实 information 信息 justice 正义 kindness 善良 knowledge 知识 laughter 笑声 liberty 自由 life 生命、生物、活力 play 玩 recreation 娱乐 strength 实力 trouble 麻烦 truth 真理 virtue 美德 wisdom 智慧 work 工作"},
+    {"name":"外卖4","content":"","image":"/static/images/5.png","remark":"business 商业 change 零钱 equipment 设备 fruit 水果 furniture 家具 jewelry 珠宝 luggage 行李 machinery 机械 mail 邮件 news 新闻 propaganda 宣传 scenery 风景 slang 俚语 stationery 文具 traffic 交通 vegetation 植被 weather 天气 money 金钱"}
 ]
