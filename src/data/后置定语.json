@@ -1,6 +1,7 @@
 [
-    {"name":"后置定语","content":"当形容词修饰由every-、some-、any-、no-加body、one、thing等构成的复合不定代词时须后置","image":"/static/images/1.png","remark":"1.He did everything possible to help us.2.There is something wrong with the computer ."},
-    {"name":"零食2","content":"形容词组作定语须后置，其功能相当于一个定语从句","image":"/static/images/1.png","remark":"1.They are the boys easiest to teach.2."},
-    {"name":"零食3","content":"地址3","image":"/static/images/1.png","remark":"介绍3"},
-    {"name":"零食4","content":"地址4","image":"/static/images/1.png","remark":"介绍4"}
+    {"name":"用法一","content":"当形容词修饰由every-、some-、any-、no-加body、one、thing等构成的复合不定代词时须后置","image":"/static/images/1.png","remark":"1.He did everything possible to help us.2.There is something wrong with the computer."},
+    {"name":"用法二","content":"形容词组作定语须后置，其功能相当于一个定语从句","image":"/static/images/1.png","remark":"1.They are the boys easiest to teach.2.The basket full of some fruits belongs to the old woman."},
+    {"name":"用法三","content":"形容词比较等级结构修饰名词时须后置","image":"/static/images/1.png","remark":"The Smiths need a car garage twice larger than this one."},
+    {"name":"用法四","content":"部分以a-开头的形容词如alive、alike、alone、awake等置于被修饰的名词之后","image":"/static/images/1.png","remark":"She was the only person awake at that night."},
+    {"name":"用法五","content":"形容词worth构成的词组作定语时，常常后置","image":"/static/images/1.png","remark":"A car worth $ 80,000 is not too dear for him to buy."}
 ]
