@@ -1,0 +1,10 @@
+[
+    {"name":"规则变化1","content":"以s, sh, ch, x结尾加es，读/iz/","image":"/static/images/8.png","remark":"bus-buses   watch-watches   box-boxes   brush-brushes"},
+    {"name":"规则变化2","content":"以辅音字母+y结尾，变y为i再加es，读/iz/","image":"/static/images/8.png","remark":"baby-babies   city-cities   country-countries"},
+    {"name":"规则变化3","content":" 以y结尾的专有名词或元音字母+y结尾的名词变复数时，直接加s，读/z/","image":"/static/images/8.png","remark":"monkey-monkeys　 holiday-holidays"},
+    {"name":"规则变化4","content":"以辅音+o结尾无生命的名词，直接加s，读/z/","image":"/static/images/8.png","remark":"piano-pianos   photo-photos"},
+    {"name":"规则变化5","content":"以辅音+o结尾有生命(包括动植物）的名词，加es，读/z/","image":"/static/images/8.png","remark":"hero-heroes   tomato-tomatoes   potato-potatoes"},
+    {"name":"规则变化6","content":"有些以f或fe结尾的，把f或fe变ve加s","image":"/static/images/8.png","remark":"leaf-leaves   knife-knives"},
+    {"name":"不规则变化1","content":"没有规则","image":"/static/images/8.png","remark":" child-children　foot-feet 　tooth-teeth   mouse-mice 　man-men　 woman-women"},
+    {"name":"不规则变化2","content":"单复同形","image":"/static/images/8.png","remark":"deer，sheep，fish，Chinese，Japanese"}
+]

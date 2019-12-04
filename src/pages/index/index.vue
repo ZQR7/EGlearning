@@ -65,10 +65,10 @@ export default {
       ],
       
       krids: [
-        {title:"名词",image:"/static/images/5.png"},
+        {title:"不可数名词",image:"/static/images/5.png"},
         {title:"连词",image:"/static/images/6.png"},
         {title:"动词",image:"/static/images/7.png"},
-        {title:"情态动词",image:"/static/images/8.png"}
+        {title:"名词复数",image:"/static/images/8.png"}
       ],
       crids: [
         {title:"定语从句",image:"/static/images/9.png"},
