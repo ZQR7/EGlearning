@@ -22,6 +22,7 @@
     </i-grid-item>
   </i-grid>
 
+
   <i-grid i-class="no-border">
     <i-grid-item @click="goType(krid)" v-for="krid in krids" :key="krid" i-class="no-border">
         <i-grid-icon>
