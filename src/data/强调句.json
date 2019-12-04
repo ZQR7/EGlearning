@@ -1,6 +1,4 @@
 [
-    {"name":"主食1","content":"地址1","image":"/static/images/4.png","remark":"介绍1"},
-    {"name":"主食2","content":"地址2","image":"/static/images/4.png","remark":"介绍2"},
-    {"name":"主食3","content":"地址3","image":"/static/images/4.png","remark":"介绍3"},
-    {"name":"主食4","content":"地址4","image":"/static/images/4.png","remark":"介绍4"}
+    {"name":" 陈述句的强调句型","content":"It is/ was + 被强调部分（通常是主语、宾语或状语）+ that/ who（当强调主语且主语指人）+ 其他部分。","image":"/static/images/4.png","remark":" It was yesterday that he met Li Ping."},
+    {"name":"not … until … 句型的强调句","content":"It is/ was not until + 被强调部分 + that + 其他部分","image":"/static/images/4.png","remark":"It was not until his wife came back that he went to bed."}
 ]
