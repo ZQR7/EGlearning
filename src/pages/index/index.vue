@@ -67,7 +67,7 @@ export default {
       krids: [
         {title:"不可数名词",image:"/static/images/5.png"},
         {title:"连词",image:"/static/images/6.png"},
-        {title:"动词",image:"/static/images/7.png"},
+        {title:"不规则动词",image:"/static/images/7.png"},
         {title:"名词复数",image:"/static/images/8.png"}
       ],
       crids: [
