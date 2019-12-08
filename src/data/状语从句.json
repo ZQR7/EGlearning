@@ -1,6 +1,8 @@
 [
-    {"name":"零食1","content":"地址1","image":"/static/images/11.png","remark":"介绍1"},
-    {"name":"零食2","content":"地址2","image":"/static/images/11.png","remark":"介绍2"},
-    {"name":"零食3","content":"地址3","image":"/static/images/11.png","remark":"介绍3"},
-    {"name":"零食4","content":"地址4","image":"/static/images/11.png","remark":"介绍4"}
+    {"name":"时间状语从句","content":"常用引导词：when（在…时）,as（当…时）,while（在…期间）,as soon as（一……就……）,before（在…之前）,after（在...之后）,since（自从...以来）, not...until（直到…才）until/till(直到…时）等","image":"/static/images/11.png","remark":"1.I didn’t realize how special my mother was until I became an adult. 2.While John was watching TV, his wife was cooking."},
+    {"name":"地点状语从句","content":"常用引导词：where，特殊引导词：wherever, anywhere, everywhere","image":"/static/images/11.png","remark":"1.Generally, air will be heavily polluted where there are factories. 2.Wherever you go, you should work hard."},
+    {"name":"原因状语从句","content":"常用引导词：because, since, as,","image":"/static/images/11.png","remark":"My friends dislike me because I did something wrong."},
+    {"name":"条件状语从句","content":"常用引导词：if, unless,whether(whether...or not)","image":"/static/images/11.png","remark":"We’ll start our project if the president agrees. 2."},
+    {"name":"目的状语从句","content":"常用引导词：so that, in order that","image":"/static/images/2.png","remark":"The boss asked the secretary to hurry up with the letters so that he could sign them."},
+    {"name":"结果状语从句","content":"常用引导词：so … that, such … that, so that...","image":"/static/images/2.png","remark":"He got up so early that he caught the first bus."}
 ]
