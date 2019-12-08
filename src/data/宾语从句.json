@@ -1,6 +1,6 @@
 [
-    {"name":"零食1","content":"地址1","image":"/static/images/12.png","remark":"介绍1"},
-    {"name":"零食2","content":"地址2","image":"/static/images/12.png","remark":"介绍2"},
-    {"name":"零食3","content":"地址3","image":"/static/images/12.png","remark":"介绍3"},
-    {"name":"零食4","content":"地址4","image":"/static/images/12.png","remark":"介绍4"}
+    {"name":"宾语从句规则","content":"","image":"/static/images/12.png","remark":"一.时态：1.主句用一般现在时，从句可用任意时。2.主句用过去时，从句用过去某个时态。3.当为客观事实和科学真理时，从句为一般现在时。二.宾语从句的从属连词主要有that,if,whether.that引导表示陈述句的宾语从句,而if和whether引导表示“是否”的宾语从句。三.连接代词主要有who, whom ,whose ,what ,whoever ,whomever ,whoseever, whatever, whichever等.连接代词一般指疑问,但what, whatever除了指疑问外,也可以指陈述。四.连接副词主要有when,where,why,how,whenever,wherever,however等。"},
+    {"name":"动词的宾语从句","content":"","image":"/static/images/12.png","remark":"1.He told me that he would go to the college the next year. 2.I don’t know if there will be a bus any more. 3.The book will show you what the best CEOs know. 4.He didn’t tell me when we should meet again."},
+    {"name":"介词的宾语从句","content":"介词的宾语从句用wh-类的连词","image":"/static/images/12.png","remark":"1.We are talking about whether we admit students into our club. 2.They are talking about what he did."},
+    {"name":"形容词的宾语从句","content":"常用来引导宾语从句的形容词有: sure,certain,glad,please,happy,sorry,afraid,satisfied,surprised","image":"/static/images/12.png","remark":"1.I am sure I will pass the exam. 2.I am sorry that I have troubled you so long."}
 ]
