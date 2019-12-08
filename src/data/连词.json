@@ -1,6 +1,7 @@
 [
-    {"name":"零食1","content":"地址1","image":"/static/images/6.png","remark":"介绍1"},
-    {"name":"零食2","content":"地址2","image":"/static/images/6.png","remark":"介绍2"},
-    {"name":"零食3","content":"地址3","image":"/static/images/6.png","remark":"介绍3"},
-    {"name":"零食4","content":"地址4","image":"/static/images/6.png","remark":"介绍4"}
+    {"name":"并列连词","content":"并列连词:1and 与or，2both …and两者都，3not only…but ...as well as=not only...but also不但…而且，4.neither…nor既不……也不……(谓语动词采用就近原则，与nor后的词保持一致)","image":"/static/images/6.png","remark":"1.They sat down and talked about something. 2.She plays (both) the piano and the guitar. 3.She plays not only the piano,but (also) the guitar. 4.Neither you nor he is to blame."},
+    {"name":"并列结构","content":"1.or意思为否则，2.either…or意思为或者……或者……；不是……就是……(注意谓语动词采用就近原则)","image":"/static/images/6.png","remark":"1.I must work hard,or I'll fail in the exam. 2.Either you or I am right."},
+    {"name":"转折或对比","content":"but表示转折，while表示对比，not…but…意思为不是……而是……(not 和but 后面的用词要遵循一致原则)","image":"/static/images/6.png","remark":"1.Some people love cats,while others hate them. 2.They were not the bones of an animal,but (the bones) of a human being."},
+    {"name":"让步","content":"however表让步，译为无论如何","image":"/static/images/6.png","remark":"However we adopt healthcare reform, it isn't going to save major amounts of money."},
+    {"name":"原因关系","content":"1.for因为 2.so,therefore因此，所以 3.because因为","image":"/static/images/6.png","remark":"1.For he is ill,he is absent today. 2.He hurt his leg,so he couldn't play in the game. 3.I cannot sleep because I am too excited."}
 ]
