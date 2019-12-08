@@ -1,6 +1,8 @@
 [
-    {"name":"零食1","content":"地址1","image":"/static/images/2.png","remark":"介绍1"},
-    {"name":"零食2","content":"地址2","image":"/static/images/2.png","remark":"介绍2"},
-    {"name":"零食3","content":"地址3","image":"/static/images/2.png","remark":"介绍3"},
-    {"name":"零食4","content":"地址4","image":"/static/images/2.png","remark":"介绍4"}
+    {"name":"副词一般在句子中做状语","content":"","image":"/static/images/2.png","remark":"He speaks English very well. 。"},
+    {"name":"不定式在句子中可以作目的状语","content":"","image":"/static/images/2.png","remark":"I come specially to see you. "},
+    {"name":"介词短语作状语","content":"","image":"/static/images/2.png","remark":"1.Ten years ago, She began to live in Dalian. 2.The boy was praised for his bravery."},
+    {"name":"从句作状语","content":"","image":"/static/images/2.png","remark":"When she was 12 years old, she began to live in Dalian."},
+    {"name":"动词ing形式作状语","content":"","image":"/static/images/2.png","remark":"1.Seeing its mother, the baby smiled.  2.Not knowing anything about the accident, he went to work as usual. 3.It rained heavily, causing severe flooding in that country. 4.She sat at the desk reading a newspaper."},
+    {"name":"名词作状语","content":"","image":"/static/images/2.png","remark":"We must get together again some day."}
 ]
